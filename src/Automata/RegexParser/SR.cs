@@ -46,5 +46,5 @@ namespace System.Text.RegularExpressions
         public const string UnterminatedComment = "UnterminatedComment";
         public const string MalformedNameRef = "MalformedNameRef";
         public const string UnknownProperty = "UnknownProperty";
-   }
+    }
 }
